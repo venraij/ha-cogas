@@ -1,0 +1,12 @@
+{
+    "domain": "cogas",
+    "name": "Cogas",
+    "version": "0.1.0",
+    "codeowners": "@VenRaij",
+    "iot_class": "cloud_polling",
+    "integration_type": "service",
+    "dependencies": [],
+    "requirements": [],
+    "documentation": "https://www.home-assistant.io/integrations/cogas",
+    "config_flow": true
+}
